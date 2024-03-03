@@ -53,5 +53,5 @@ Com uma confiança de 0,81
 
 
 <h3>Configurando finais</h3>
-<p>Com esse software de IA, podemos descrever fotos, digitalizar imagens, entre várias funcionalidades que podem ser  implementadadas em  sistemas de segurança, além de gerar acessibilidade para pessoas com deficiência na visão (descrevendo a imagem gerada pela IA, por aúdio) por exemplo.
+<p>Com esse software de IA, podemos descrever fotos, digitalizar imagens, entre várias funcionalidades que podem ser  implementadadas em  sistemas de segurança como por exemplo, além de gerar acessibilidade para pessoas com deficiência na visão (descrevendo a imagem gerada pela IA, por aúdio) por exemplo.
 Percebemos que com a utilização da IA, o "Add captions to images", quanto maior for o percentual de confiança, maior será a veracidade  da descrição da foto selecionada.</p>
